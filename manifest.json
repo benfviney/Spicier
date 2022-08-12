@@ -1,0 +1,14 @@
+{
+    "name": "Spicier",
+    "description": "Some theme that I found somewhere and then tweaked a bit",
+    "preview": "screenshot1.png",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "authors": [
+	   { "name": "unknown origin", "url": "https://spectrum.chat/spicetify/themes?tab=posts" },
+        { "name": "Altirix", "url": "https://github.com/Altirix" },
+        { "name": "benfviney", "url": "https://github.com/benfviney" }
+    ],
+    "tags": ["minimal"]
+}
